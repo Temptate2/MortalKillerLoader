@@ -1,6 +1,892 @@
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+local lib = {}
 
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local TweenService = game:GetService("TweenService")
+local uis = game:GetService("UserInputService")
 
-,nil,nil;(function() _msec=(function(e,n,o)local J=n[(0x860/134)];local Q=o[e[(1375-0x2ea)]][e[(774+(4-0x30))]];local U=(65+-0x3d)/(((0x3cf0/(43264/0xd0))+-#"no thanks")+-0x40)local i=(-#'Never gonna give u up'+(0x6e-(-#[[I like gargling cum]]+(205+(-39+-0x3c)))))-(-#{1;10;10;'}'}+5)local L=o[e[(353-0xde)]][e[((-22310/0xe6)+0x15b)]];local y=(0x38-((140-(-#[[dont use it anymore]]+(0x106-165)))+-#[[require]]))+(46-0x2c)local s=o[e[(612+-0x5b)]][e[((-41+0x3b4)+-#[[dont use it anymore]])]]local l=(118+-0x74)-(((0x86c7/(0x7785/141))-124)+-#[[mee6 what are you doing to my wife]])local m=(-#[[cum fuck]]+((2211+-#{(function()return{','}end)();89;'}'})/184))local M=(((((((-0x2768+5008)+-#"Dick")/0x7c)+-#[[xenny its znugget please respond]])+134)+-#'fish was here')-0x2c)local P=(11+-#{'nil';'nil';",";95,'}';",",(function()return#{('llKBPp'):find("\75")}>0 and 1 or 0 end)})local S=(-#{'}';'nil',(function()return{','}end)()}+7)local D=(-#{1,(function()return{','}end)();'nil';'nil';(function()return{','}end)();",",(function()return{','}end)()}+11)local C=(58+(-0x6f+((-0x26+(3024/0x1c))+-#'amena jumping')))local O=(-#{1,'}';'}',1;'}',",",","}+9)local t=((((1133+((-2100/0x54)+-97))+-57)/0x9f)+-#[[Bong]])local x=((119-(14416/((-#[[looadstring]]+(0x754/7))+-121)))+-#'free trojan')local c=(7+-#{1,85;(function()return#{('PoMHFl'):find("\77")}>0 and 1 or 0 end);(function()return{','}end)();1})local k=((((-#{1;{},'nil',(function()return#{('fPMpBB'):find("\77")}>0 and 1 or 0 end)}+4598)-2329)/0x97)+-#[[me big peepee]])local N=(7+-#{'}';95;95;78;95})local g=(((328328/((-104+0x20a)-254))/0xb6)+-#[[test 123]])local f=(6+-#{(function()return#{('LFhPmL'):find("\104")}>0 and 1 or 0 end),(function()return{','}end)();93})local u=((-#"cum fuck"+(-0x1d+(-#"free trojan"+((-23+-0x48)+0xf5))))-0x63)local h=((150/(-#"dick cheese"+((-#"test123"+((34+-0x3b)+0xd3))-153)))+-#[[test123]])local b=(0x54/(-#[[Bong]]+(0x3c0/((-#[[big hard cock]]+(0xa03ff/91))/0xf0))))local w=(((-#[[test123]]+(310982/(200+-#{{};(function()return{','}end)(),'nil';1,'}';1})))/0x85)+-#'no thanks')local K=e[(0x5dc+-103)];local I=o[e[(-#[[deobfuscated]]+(0x181-242))]][e[(0x1858c/214)]];local A=o[(function(e)return type(e):sub(1,1)..'\101\116'end)('пархгргх')..'\109\101'..('\116\97'or'фшшяихгы')..e[(7815/0xf)]];local z=o[e[((-0xf3c/75)+0x23d)]][e[(-#[[test]]+(0x1627c/98))]];local v=(8+-#{1,47,'}';",",'}',53})-(-#[[mee6 what are you doing to my wife]]+(157-((662-0x176)-167)))local p=(0x68-(((0x165+-77)+-#'big hard cock')-0xa5))-(58/0x1d)local F=o[e[(-#{161,{};(function()return{','}end)();81,(function()return#{('oOLOfF'):find("\76")}>0 and 1 or 0 end),1;161}+138)]][e[(43802/0x79)]];local d=function(o,e)return o..e end local j=((12250/0xf5)+-#'edp445 what are you doing to my 3 year old son')*(((0x17f+-115)-0xbd)+-75)local H=o[e[(-26+0x48b)]];local a=(120-0x76)*(223+(-45+(-11150/0xdf)))local T=(0x42c+-44)*(-0x6b+((189660/0x3a)/30))local G=((0xf9-(20064/(-0x77+233)))+-#"Never gonna give u up")local B=(-#[[zNugget is dad]]+(-0x44+(-#[[Bong]]+(0xd8-(-#"cum fuck"+(194+-0x3a))))))*((31+-0x11)+-#"deobfuscated")local _=o[e[((171601/0x9d)+-#[[edp445 what are you doing to my 3 year old son]])]]or o[e[(-112+0x279)]][e[((171601/0x9d)+-#[[edp445 what are you doing to my 3 year old son]])]];local r=(0x273-((858-((0x234+-80)+-#"deobfuscated"))+-#"Nitro Activated"))local e=o[e[(102992/0x52)]];local q=(function(a)local r,n=2,0x10 local o={j={},v={}}local d=-l local e=n+i while true do o[a:sub(e,(function()e=r+e return e-i end)())]=(function()d=d+l return d end)()if d==(j-l)then d=""n=v break end end local d=#a while e<d+i do o.v[n]=a:sub(e,(function()e=r+e return e-i end)())n=n+l if n%U==v then n=p z(o.j,(F((o[o.v[p]]*j)+o[o.v[l]])))end end return s(o.j)end)("..:::MoonSec::..яшертыуиопасдфгхаряипспипртгпяоиорихдгфагегшфяфауаыхысыипусгсфадоастатыгриехесеиусотидисхошрясяияртиуяыоыишугхгигрфхтхтятяртоафтдрсхссепшушгшпшашеясяяяияыхохпхсуооеисииирсуфяфстоутысыиыратохсясяишфтрхррехесияпупеофыфоеиптгиашихххсхитуытыхриыытоторотытошсеорыррхгхфеышяшоядооаипспипргехяхсфугегагпфояоитуиурыхфесдсысисасуагооихшдргехесеиухотидисиоошуфиуутишыххохггхгсгитхттрдрсротшргрсетррегыяссахасаияыяояхдыхыяихахпшдотисииирсефифуфадфхтушыртхтсауаесеаяпааоашпяодптеяетшишряхуеиуиыуаугуиытыеыяыагпфхфсфитуриедесреругесфсрахасхтшеяфяухдядяеохоиорихсгфогуфиудияурыхысдгдедшсусасраяпгпдхеруесеиероиохосортпраруятяихсхихрриыхысырехтататитедхдидрсхесшоеыерттагарпхпсфахдярхтяшгогфаеосирухусдфсгдяыхпыпаоыиоурыыяттуроффшгядхфхяффохсяосяхясяиуаеыфтихршаитсхафгпетсгааыыихоишыышясфегяхдфиыгагшигеафхпыттгхаушшдаиееофыифехффпрргхяпптдхсааыдяосшуояггтотыияосыугшхахуыедпфысштсоыштшфепетуятахрпхдсфрахфсоиишддпттшифиодршафифрфгсадрияфоиыаяаоруахасеиуешдхиерудаодросдидыехпсоутгппфуыятсдетеишсшишрыоипиаииуяупыаыооохшгигрфхефрдтяргрхедаодосссисрхшшаясшдгыяаяпхухтфоодорихисгифуфяфифртоурысыиырсуадстаофоргриррехияиаиртушфшишряхуатгдеяухсхихртыыятаыитгтфяатуфидсдидряиряетштшфшашяяишеатпипроххрдяггхеасааасгефыеыурыхысыиыртхуфоипяторсрирридодогпшоооходииитигшдярхххсысыдуетгыуыытряпрграхгрешояояигфедяфеияяшеатаопспипрфххигохдгтгфсггофопеухурыхыспастсссиапатаеауыгтеехесеиоипеошриидоеесухутишуоурыоуеыгыагуфхфсфитшрттеоудосхсссихпшгшфяаяоыгпхпипрохфигдгпхрдоиоирухусдуоаияысыиырашсясиахаопгпоаиптохиапиогофиоиаитигшеярхххсроыиыдытыырытттотутиртргфрдрсхссясеышошеягяошшгяяфхохфххудопихисиигсфхдгдодхдсдгуяыртхтсоаасаяафпопуарпяппяоеышсшишрыхииуоидутуфшгхигхгсгирртятфтсудфадсдидрееершдшушаягяояхясяяяпедпфосоиоргуфдгтфогефяфыфудтоасхдидрссугтфрхрсрииаптпхиаоопшпшояиуитыошяярхххсыгытыдыяыатотфтгрдтуфодсдидррушдершгеешсядяояррташпрохосфшхугггпссфофефадсдооууяыиыртхпрсусшатстшдтеехесеиуторихыдопитипистсуяупысыхытыфддхсфхфсфитрряргрсеоешетеыгшшешаштфешшхдягдеятфусасадыгысдгуиыусуиураядодудосфсхгятырхрсриаеаедтртершхшсиоориораигуоушуруууеыаыгшуяагтфсфифршдрарыеороаядесрахасгаядшрятшшхохфхггхгдгхуяисирухусдгдтдддяигыфтхтстиогаопгаеорпсодаяоопштееышряхясыыуоиуухууушуеыатфыиепегеуешшддгдидрсххдяихдсясраиарпхягххяояргххухагфштиаирухуссрдодуаоуеыртхтспрсеаепдарорпсодаяоопшяяшфшряхясоедтхппгтфуеоохшгигрфхшедиоеяоипхсрудрсссисршуядштяороаыпипроххтхагхгегигугугтффддтоуиысыиыраеагспаоафоеадпдггрееиершхошопоеидыфтгтыиеярхихргхефыутиыоееыятыргрфдидрсхсссихряегсаоахпхпспиххярфргдхсгшсфгтдодуфссоутуоысыиырсесраосыаяпгаспоашгаесершхшсушоуигипяояфхххсхитуутыфтфтттетяшгторошофядрсхссхпеешретгфшешшхгхдяупеосоиордагяхяитиуусуиураидхдсдрпусясспятпрсрирриыптппооиеояопопитифяояххххсхиртыртхедысыртфрошуряргехгадтсссисряшштягясшрыаарпрохосфяхшхыгагефодефяфпфпдтдфигыитхтстисааяатасыариесеиерушоаисодыуотипиееухгхихргхтдыитдпггяфифрдхягехеореехиусиахасаигсятхдхсптпхосоиордихягтфтфффафядисшдадудипхадспсифотериррехохпяпуоеоаопииошясяиярхххсхияиехшехягрфхфсегртрсрурарретеяшсгшахасаиаыдипспипрпшосоиорпшсдииирухидуиурыхысыиыртхтститррхрсриррехедеиершхшсшиеыяхясяоярытхсхихряшгсгигтфхясфифрдххшдидрдяссдясрсяасфяарарфопипрохптоиотихисиоирухусуоурыхысыпистхтдтиттрхрсритыигесеоереошсшишрешясяиятххятхихргххфгигргшфсхрфрдхдсфпдрсхсгсияяахасаисыпхпспспргросоиорихисииитухухуиуыыхуфыиырыштсуитррхрсрфугехегеиершхшдшиштяхястуярхххсхохргхгсгияффхфффифыдхдддифыдсссспсрфеасаиарсшаипипуохсшоиорихосогиришусдшуруеысупыхтхтфтиуурхрсриыррдесеперешшсишшрешшияияуххешхихргххшепгргшфсхтфрфядсдадрдрхосисрахдоаиатпхпхфтпрохосагорояисопихухуфуиупыхысыиуыуптстатрторсрирртшесеиеишхрушишряхшфяиярятхстыхргхгсхпгрфхгшфихадхдсдидрсхсссасрсыасапарпхпспипыохофоиотихофиииришусдиурыхысыиыртхтфтиттрхрдририехесеиеррушсшошрешшияияыххысхихргххфгигргефсргфрдхдсдидрсхсфсисыахадаисыпхпспппрфгосоиорпхисиииыухуфуиафыхысыиырыштстптртярсриррехесеиетшхшсшишуяхясяияррухсхихррдхшгигрфхеордтирираесгадссссисрхшшшятхггргяфаоиаессауоххшисииирухусгиарпхдгыаыртхтспдсыасуетшррехесугоопругидоыоыитуауогтяшхихргхярягефяигфеспефыдсдидргтфссфффхшыдаиарпхпспипртхфддишдоаисииирсифхфсфрседядпдпсоагадяетхрсриррохргфгиашисштхяепирффдрфшодшыфхдоохшгигрфхсхооптифппхяаодтсссисреехгхядхахыппипрохосоиордяссдторухусуидроырогипиттхыссуршддгтерягдпстфяоеышсшишррфдотыяоотыауахигхгсгиеытгрхыясофыдсдидршфоятхерухпшшаагпхпспифххггггогхдхгифогдфтффеуупыхысыияярсоаухяеаоагтиррехесоирифоиышрагтфяшпиргфгтяшддуурярддгпфхфсфиирдетрфсоягфиадрсрахасяхшишрясхуяыхтхдхдгохегхпфирухусуиурыхирпиыртхтститррхисопиридрееиершхусоритооияипиутсхсхихргхгсгирашхяегрфрдхдсяпштхефиаиохитядшешугддяряпфохосоидффедадысоффдгфудидттяыфыртхтсгшгхахушдгяудиесеиершхшсшитотхатшрярхххсрпрхшоходрауоушпшашпгаспшрдрсхсссисраххтгидааыпспипрасргдггагфпгдтииухусуисеаиашпоиаыутститрсшаяаоаоптпгпсгееешсшишроеотиыиуяухсхихрриыятотитттфтаеяфудсдидряиехесерхушяшсоипхпспипрохосдадрхеихииирухспдофядтхтыфыртхтссряшяеягдыдяехесеиершхшсширртхатясярхххстуеяххфсртгпфхфсфифгтсееигхоррытсфсрахасртаииряарфхфитпроиорихдтгагугшсшфудфаедгысыртхтсагатадаяхургехесеиоуыфтшяигдсппуиярсшигдттхигхгсгирегупхыышхдхдсдидрсхисяихрптдяаиарпхяефоаеуорыдуоытхтсетгииуистдяхфусррерфяадпсатпрхрсрипиыояудеиатефашфшряхясдяхсшяфтпдсигхгсгигрфхфспиепяхшидидрсхсссисргдгсрпарпхпспидрохосоиорихидииоыухусуоурофысыиыруштститырхухриррехрфеиереешсеушряхясшпярхххххиеыгхгсгигрфхфсфофрфрдсдпдрсхсссисыахадаиарпхпспипрпеосоиорошисопирухухуипшыхысыиуытхтстдтртсрсрирртшесеиепшхедшишряхшфяияряухсшыхргхгсгигрфхфхфифадхдфдифысхсссдсрфгасаиарсхпспипоохпяоиооихофииириуусояурыхысыиыртхыятитархрфриырехеседеретшсепшрехясяияоххяяхишсгхгсгигргефсфсфрфтдсфпдрсхсхсигшахасаисыпхпспдпрсхосоиорпшисииипухиеуиурыхуфыиырыутсугтррхрсриррехехеиеашхшфшиеыяхясядярегхсхихряхгсгигофхгяфихпдхффдидрдуссгысрахасспарпхарпидуохосоипыихисояириаусуиуришысыиыфтхуститррхрсриррруесршерешшсшишряхшяяияахххфхихргхгсгагргрфсфдфрдхдсдидысхсгсистахасгыарпхпспопрпшосппохихидиипиухусуиупиыысыоырпотстотррхрсрсияехесеиудшхшдшиеышсясяоярерхсхихряхергигтфхфдфихудхдсдидрдшсссисрсрасаиарпхпгпипрохосоиприхисипирирусуауришысыиыутхиптитррхтфрирррресыоершхшсепшряхшяяиеяхххсхияыгхгсгфгргифсфифрдхдсдидусхдшсисыахссаиарашпспопрпеосоиорихигииирухудуииыыхысысырифтститрышрсрироехефеиершхефшишршыясеоярхххсяпхргххегияффхфсфифрдхдсдсдрдуссспсрдшасаиаопхдппипрохпфоиороыисосирухусипурыхуеыиоятхтстиыырхрсрхрруыесеиершхшсшишояхшряияыхххсхихрхегсгсгргтфсгифрдхдфдигосхсгсидыахасааардгпспипрахосоиоуихигиииоухифуиурутысуяыртхтститррхргрироехефеитршхшсшашршеясерярхххсхихогхгсгигрфхфсфифрфедсдддрдшссдисрахафаисрпхпгпипрохосооорошисипирирусуиурыхгдыиыттхыфыртртярсыаррехесефрхшхшдшиуяяхядяиятххххртхргхгсртгргяфсфсшядхдсдиршсхсдсидыссасаоардепспипрохсхоиоыихисииииухусуиуруеысыиыртхтсыитррхрфририехегеирышхшсшашррфясяияршшхсхихигхшугигрфхгффифрфтдсфддрсхссдпсрахсшаиаупхпспипрохосоаороыисипирихусуиуыыхыдыиыутхтститртерсриррряесрпершхшхшитшяхясяишыхххсхдхряагсгигрхшфсфифпдххидидрсхдфсисрсуасфгарпхпспипрохохоиоаихифииоыухусудурофысыиыруштститпрхтприррехрфеиереушсшфшряхясшпярххярхиясгхгсгигрфхфсфдфрфидсдпдрсхсссисуахахаиаопхаспипрпшосадороеисопирухугуипеыхысыииртхтстатртерсрдрртшесеиеошхетшишряхясяияряехсхдхрхшгсяигрфхфгфифудхгидидрсхсссдсрахасаиарпхпспипуохпяоиоыихосиииришусииуруеысыиыртхтдтитырхрфририудесеиерсяшсшошрешшияиятххшшхихргххшхфгргяфсуофрфядсдидрдрхосисрахрдаиатпхафарпрпяоспфорихисииаиухуфуиурыхыхыиыртхтстатррхрсрирррхесеиеышхшхшишуяхшфяияряехсеыхргхгсхпгрфхфхфихыдхдсдифысхсссдсрфоасаиарсшпспиппохаеоиорихисииириеусуфурушысуиыртхтфтиттрхргриррехесеаершхшсшошрешясяияиххепхихргххфгигргтфсхуфрдхдсфпдрсхдшсидуахасаисыпхпспгпрпдосоиорихисииииухиеуиуыыхуфыиырыттсиытррхрстпррехршеиефшхшсшиеыяхясягярртхсхихряшгсгигсфххыфифрдхдсдидрдтсссхсрсшасаиарпхпгпипиохпяоиприхисипирптусуауришысыиыутхиатитррхысриррреесеаеретшсепшряхшяяиядхххсхихргхгсгагргтфсфпфргхдсдидусхсгсидхахасаиаратпспипрохосоиорихигиииоухуфуиирыхысыпырыхтстатррхрсриртехефеиеышхшсшошряхясяоярхххсхихргхгсгагсфхфсфитуфрдсдидрееершоеысяахаиарпххфшяяихтхгофорихисгагигшфтфыдаыхысыиыртхтстирригхатрррехеспрпиуиояохиыышиоыдыаухтдсухргхгсгияагефсфифртетяепгпсхсссисрахасшигрдшпспипрашпиоиоуихояииирухуспеуруеысыаырыятстфыхрхргрироехедеиетшхшхытшряхясядяряяхсхсрягхгсгигсфхфдфигыфсдсдадрдтсссисрахфуаиаупхпгпиптохоссуороеисипирухусипорыхыгыиыитхтстиыыутрсрсрррыесеиерршшсшишояхяхяиярхххсхихрхыгсгигрфхфсгпфрдхфедидисхсссисиахасадарсфпспопрохогоиодихихииирухифуфурупысыаыртхтсуитррхтырирфехедеитршхшсеешряхясягярхххсхияягххргигрфхфсфифрффдсдхдрсхсссисрахсуаисшпхпфписрохоспеороаисипирухусуиугыхыфыиыытхтститртарстеррреестиершхеушишгяхшряиярхххсяшхрхшгсгпгрфхфсфифидхфтдидфсхсссисрсоасааарашпссипрохогоиодихориииисоусудуруфысыоырушыититорхтяриррехесуыеретшсшошршрясяирехххххихыгхгсгигргяфсфифрфядсдидрсхсссисрсшафаиарпхпдпдпрохосхигугягигрирухусуиурыхысыиырудтститрышысрирыехефеиершхефришршеясяпярхххсяпххгхгхгигтфхфсфифпяадсдддрсхсссосрсрасаигепхпспипыохосоиорсгисииирухусуиурыхпаыиыртхтгтитррхрсиуррехесеоершхшсширфяхяхяияыхххдхихпшсгсгигрхофсфофрфядсдсяясхсссиддахадаиапгшпспипрпфосооорояисиссяухусуиишыхыдыиыиодтститрыорсрорррыыиеиетшхртшиштяхясяияирдхсхихряогсгогрфхгафифидхдфдидусхссдусрстасааарашпспффыохохоипоихидиииоухухатурыхысудырыятстсоярхрсритдехедеиерегшсшсшршшясяаярххяахихогхгггигыфхгшшпфрфрдсгшдрдясссдсрсргоаиарпхсыпиптохосфторорисииирухусуиасыхыхыиыттхтститругрсрсррршесеиершхшдшишряхядяиярхххдхихргхгсгигрфхфсфгфрдхдсдихосхсссистахасаиарпхпспипрохосоиорихисииирухусуиурыхысыиыртхтстатррхрсриррехесеиершхшсшишряхясяияряшхсхихргхгсгигрфхфдфифрдхдсдидрсх");local s=(808/0xca)local o=93 local n=l;local e={}e={[((37+(-0xdb5/121))+-#[[Hi skid]])]=function()local i,l,e,d=L(q,n,n+y);n=n+B;o=(o+(s*B))%r;return(((d+o-(s)+a*(B*U))%a)*((U*T)^U))+(((e+o-(s*U)+a*(U^y))%r)*(a*r))+(((l+o-(s*y)+T)%r)*a)+((i+o-(s*B)+T)%r);end,[(0x152/169)]=function(e,e,e)local e=L(q,n,n);n=n+i;o=(o+(s))%r;return((e+o-(s)+T)%a);end,[(0x21-30)]=function()local d,e=L(q,n,n+U);o=(o+(s*U))%r;n=n+U;return(((e+o-(s)+a*(U*B))%a)*r)+((d+o-(s*U)+r*(U^y))%a);end,[(0x74-112)]=function(n,e,o)if o then local e=(n/U^(e-l))%U^((o-i)-(e-l)+i);return e-e%l;else local e=U^(e-i);return(n%(e+e)>=e)and l or p;end;end,[((2793/0x85)+-#'187 ist die gang')]=function()local o=e[(160/0xa0)]();local n=e[(0x2d/45)]();local x=l;local d=(e[(-#[[This is working now]]+(90-0x43))](n,i,j+B)*(U^(j*U)))+o;local o=e[(71+-0x43)](n,21,31);local e=((-l)^e[(820/0xcd)](n,32));if(o==p)then if(d==v)then return e*p;else o=i;x=v;end;elseif(o==(a*(U^y))-i)then return(d==p)and(e*(i/v))or(e*(p/v));end;return Q(e,o-((r*(B))-l))*(x+(d/(U^G)));end,[(((-64+0xbd)+-#[[black mess more like white mesa]])+-88)]=function(d,x,x)local x;if(not d)then d=e[(128/0x80)]();if(d==p)then return'';end;end;x=I(q,n,n+d-l);n=n+d;local e=''for n=i,#x do e=K(e,F((L(I(x,n,n))+o)%r))o=(o+s)%a end return e;end}local function q(...)return{...},H('#',...)end local function T()local t={};local x={};local o={};local c={t,x,nil,o};local n={}local h=(183-0x67)local o={[((0x2bb2/238)+-#'guys Please proceed to translate D to Sinhala')]=(function(o)return not(#o==e[((0x4b0/120)+-#"test 123")]())end),[((194+-0x75)-0x4d)]=(function(o)return e[(-47+0x34)]()end),[(88/0x58)]=(function(o)return e[(0x390/152)]()end),[(-#"187 ist die gang"+(-0x24+55))]=(function(o)local n=e[(-#"looadstring"+((318461/0x83)/0x8f))]()local o=''local e=1 for d=1,#n do e=(e+h)%r o=K(o,F((L(n:sub(d,d))+e)%a))end return o end)};c[3]=e[((115+-0x52)+-#"black mess more like white mesa")]();local d=e[((0x40+-42)+-#"Never gonna give u up")]()for d=1,d do local e=e[(168/0x54)]();local l;local e=o[e%((7086-0xe06)/0x5c)];n[d]=e and e({});end;for a=1,e[(-0x49+(236-0xa2))]()do local o=e[(0x1e/15)]();if(e[(-#'dont use it anymore'+(0x42+-43))](o,l,i)==v)then local r=e[(216/(-#'free trojan'+(0x51+-16)))](o,U,y);local d=e[(((-0x3d00/244)+-#'require')+75)](o,B,U+B);local o={e[(714/(276+-0x26))](),e[(0x108/88)](),nil,nil};local x={[(0/0x6f)]=function()o[b]=e[(((55+-0x47)+-#'looadstring')+0x1e)]();o[m]=e[(-#"black mess more like white mesa"+(133+-0x63))]();end,[(36+-0x23)]=function()o[g]=e[((-0x44+124)-0x37)]();end,[((-121+0x1c1)/0xa4)]=function()o[f]=e[((-0x44+88)+-#[[This is working now]])]()-(U^j)end,[(0x42+-63)]=function()o[f]=e[(-#'Hi skid'+(0x6d0/218))]()-(U^j)o[D]=e[((60-0x2b)+-#'zNugget is dad')]();end};x[r]();if(e[(0x80-124)](d,i,l)==i)then o[O]=n[o[O]]end if(e[(-#'test123'+(0x51-70))](d,U,U)==l)then o[g]=n[o[u]]end if(e[(588/0x93)](d,y,y)==i)then o[C]=n[o[C]]end t[a]=o;end end;for e=i,e[(105-0x68)]()do x[e-i]=T();end;return c;end;local function p(e,B,s)local v=e[U];local r=e[y];local n=e[l];return(function(...)local y={};local o=l;local T={};local e=l e*=-1 local e=e;local a=n;local r=r;local e=q local v=v;local j=H('#',...)-i;local n={};local L={...};for e=0,j do if(e>=r)then T[e-r]=L[e+i];else n[e]=L[e+l];end;end;local e=j-r+l local e;local r;while true do e=a[o];r=e[(((-66+0x8f)+-#[[Never gonna give u up]])/0x38)];d=(1037510)while(0xc4-156)>=r do d-= d d=(1182720)while(0x45+-50)>=r do d-= d d=(5911552)while r<=((4920/0xa4)+-#'Two trucks having sex')do d-= d d=(2398)while(-#'big hard cock'+(-0x7f+144))>=r do d-= d d=(1528630)while(0xc3/195)>=r do d-= d d=(2105408)while(-#"amena jumping"+((146-0x72)+-0x13))<r do d-= d do return end;break end while 3928==(d)/((-#[[dont use it anymore]]+((12822165/0x99)/151)))do local r;local d;n[e[k]]=e[w];o=o+l;e=a[o];d=e[t]n[d](n[d+i])o=o+l;e=a[o];n[e[t]]=s[e[w]];o=o+l;e=a[o];d=e[x];r=n[e[f]];n[d+1]=r;n[d]=r[e[C]];o=o+l;e=a[o];d=e[c]n[d](n[d+i])o=o+l;e=a[o];do return end;break end;break;end while(d)/((-#'dont use it anymore'+(0x5e8-783)))==2153 do d=(3211960)while r<=(-#'test 123'+(((-196+0x51)+-#"Bong")+129))do d-= d n[e[N]]=s[e[u]];break;end while 1361==(d)/(((2441+-0x43)+-#'zNugget is dad'))do d=(3222196)while(0x85-130)<r do d-= d do return n[e[O]]end break end while 2978==(d)/((0x8ed-(292329/0xf3)))do n[e[k]]=n[e[w]];break end;break;end break;end break;end while(d)/((115+-0x5d))==109 do d=(4338400)while r<=((0x16a8/232)+-#[[I like gargling cum]])do d-= d d=(8883000)while(-57+0x3e)<r do d-= d local g;local r;local u;local d;n[e[O]]=s[e[f]];o=o+l;e=a[o];n[e[x]]=n[e[h]][e[M]];o=o+l;e=a[o];d=e[t];u=n[e[b]];n[d+1]=u;n[d]=u[e[D]];o=o+l;e=a[o];n[e[c]]=n[e[h]];o=o+l;e=a[o];n[e[k]]=n[e[h]];o=o+l;e=a[o];d=e[x]n[d]=n[d](_(n,d+l,e[b]))o=o+l;e=a[o];d=e[t];u=n[e[h]];n[d+1]=u;n[d]=u[e[C]];o=o+l;e=a[o];d=e[t]n[d]=n[d](n[d+i])o=o+l;e=a[o];r={n,e};r[i][r[U][O]]=r[l][r[U][D]]+r[i][r[U][w]];o=o+l;e=a[o];n[e[t]]=n[e[h]]%e[M];o=o+l;e=a[o];d=e[k]n[d]=n[d](n[d+i])o=o+l;e=a[o];u=e[f];g=n[u]for e=u+1,e[P]do g=g..n[e];end;n[e[x]]=g;o=o+l;e=a[o];r={n,e};r[i][r[U][N]]=r[l][r[U][S]]+r[i][r[U][f]];o=o+l;e=a[o];n[e[N]]=n[e[w]]%e[m];break end while(d)/(((501172/((0x674d/129)+-#'no thanks'))+-#'I like gargling cum'))==3500 do local o=e[t];local d=n[e[b]];n[o+1]=d;n[o]=d[e[D]];break end;break;end while 1100==(d)/((0x40838/67))do d=(1925211)while r<=((((-27+0x1582)+-#'print')/238)+-#[[187 ist die gang]])do d-= d local r;local d;n[e[c]]={};o=o+l;e=a[o];n[e[t]]=B[e[h]];o=o+l;e=a[o];n[e[c]][e[h]]=n[e[S]];o=o+l;e=a[o];n[e[t]]=s[e[u]];o=o+l;e=a[o];n[e[N]]=e[u];o=o+l;e=a[o];n[e[c]]=e[g];o=o+l;e=a[o];n[e[N]]=e[w];o=o+l;e=a[o];d=e[c]n[d]=n[d](_(n,d+l,e[u]))o=o+l;e=a[o];n[e[O]][e[b]]=n[e[m]];o=o+l;e=a[o];n[e[k]]={};o=o+l;e=a[o];n[e[t]]=s[e[w]];o=o+l;e=a[o];n[e[t]]=e[w];o=o+l;e=a[o];n[e[x]]=e[g];o=o+l;e=a[o];n[e[k]]=e[u];o=o+l;e=a[o];d=e[N]n[d]=n[d](_(n,d+l,e[g]))o=o+l;e=a[o];n[e[O]]=s[e[w]];o=o+l;e=a[o];n[e[t]]=e[w];o=o+l;e=a[o];n[e[x]]=e[u];o=o+l;e=a[o];n[e[x]]=e[b];o=o+l;e=a[o];d=e[t]n[d]=n[d](_(n,d+l,e[f]))o=o+l;e=a[o];n[e[O]][n[e[w]]]=n[e[S]];o=o+l;e=a[o];n[e[O]][e[u]]=n[e[m]];o=o+l;e=a[o];n[e[x]]=s[e[f]];o=o+l;e=a[o];d=e[t];r=n[e[b]];n[d+1]=r;n[d]=r[e[D]];o=o+l;e=a[o];n[e[k]]=e[u];o=o+l;e=a[o];d=e[x]n[d]=n[d](_(n,d+l,e[u]))o=o+l;e=a[o];d=e[c];r=n[e[h]];n[d+1]=r;n[d]=r[e[P]];o=o+l;e=a[o];n[e[t]]=n[e[w]];o=o+l;e=a[o];d=e[O]n[d]=n[d](_(n,d+l,e[h]))o=o+l;e=a[o];n[e[k]][e[w]]=n[e[S]];o=o+l;e=a[o];d=e[c]n[d]=n[d](n[d+i])o=o+l;e=a[o];o=e[u];break;end while 1473==(d)/((-#'test 123'+(0xaaa-1415)))do d=(1082000)while r>(-#[[amena jumping]]+(252/0xc))do d-= d n[e[N]]={};break end while(d)/((0x417-547))==2164 do n[e[N]]=#n[e[g]];break end;break;end break;end break;end break;end while 1472==(d)/(((0x4d9c8/(0x4f/1))+-#"test 123"))do d=(471042)while((0x6a+-71)+-#'Two trucks having sex')>=r do d-= d d=(6039093)while(79-0x44)>=r do d-= d d=(1436769)while r>(47-0x25)do d-= d n[e[k]]=(e[b]~=0);break end while 1821==(d)/(((-212+0x57)+914))do local e={n,e};e[i][e[U][x]]=e[l][e[U][D]]+e[i][e[U][w]];break end;break;end while 3147==(d)/((-#'dick cheese'+(3925-0x7cb)))do d=(10326288)while r<=((0xaf0/100)+-#[[187 ist die gang]])do d-= d n[e[N]]=s[e[b]];break;end while 3504==(d)/(((0x652c0/140)+-#[[me big peepee]]))do d=(4374565)while r>(0x2a-29)do d-= d if(n[e[t]]~=n[e[M]])then o=o+i;else o=e[u];end;break end while 2015==(d)/((349531/0xa1))do n[e[k]]=n[e[w]][e[C]];break end;break;end break;end break;end while(d)/((-0x48+2451))==198 do d=(8216247)while(0x86+-118)>=r do d-= d d=(6511442)while(86-0x47)<r do d-= d local e=e[x]n[e](n[e+i])break end while 1757==(d)/((114886/(-18+0x31)))do n[e[c]]=n[e[h]]-n[e[D]];break end;break;end while(d)/((3382+-0x49))==2483 do d=(61299)while r<=(((0x3fc18/186)/0x27)+-#'dont use it anymore')do d-= d n[e[x]][e[g]]=n[e[M]];break;end while 139==(d)/((0x89d/5))do d=(5425392)while r>(125-0x6b)do d-= d o=e[h];break end while 1928==(d)/(((-41+0xb3a)+-#"dont use it anymore"))do n[e[t]]=B[e[g]];break end;break;end break;end break;end break;end break;end while 1120==(d)/(((69717-0x8835)/0x21))do d=(5175351)while((0x50+-38)+-#[[big hard cock]])>=r do d-= d d=(12587670)while(0x44-44)>=r do d-= d d=(4600304)while r<=(189/0x9)do d-= d d=(2229520)while((148-0x7c)+-#[[Bong]])<r do d-= d n[e[k]][n[e[f]]]=n[e[P]];break end while 3596==(d)/(((0x55a-729)+-#"Cock and ball torture"))do local e={n,e};e[i][e[U][O]]=e[l][e[U][M]]+e[i][e[U][b]];break end;break;end while(d)/(((5202-0xa55)+-#[[Two trucks having sex]]))==1814 do d=(7749280)while r<=(0x630/72)do d-= d if n[e[x]]then o=o+l;else o=e[g];end;break;end while 4070==(d)/((3898-0x7ca))do d=(9032226)while r>(0x77-(-0x2a+138))do d-= d local c=v[e[h]];local r;local d={};r=A({},{__index=function(o,e)local e=d[e];return e[1][e[2]];end,__newindex=function(n,e,o)local e=d[e]e[1][e[2]]=o;end;});for l=1,e[S]do o=o+i;local e=a[o];if e[((50+-0x26)+-#"dick cheese")]==63 then d[l-1]={n,e[h]};else d[l-1]={B,e[b]};end;y[#y+1]=d;end;n[e[x]]=p(c,r,s);break end while(d)/((-#"edp445 what are you doing to my 3 year old son"+(187196/0x35)))==2591 do n[e[x]][e[u]]=n[e[m]];break end;break;end break;end break;end while(d)/((-0x2b+4097))==3105 do d=(7350235)while r<=((158-0x77)+-#[[fish was here]])do d-= d d=(5519976)while(0x70-87)<r do d-= d local d;n[e[t]]=s[e[w]];o=o+l;e=a[o];n[e[N]]=e[u];o=o+l;e=a[o];n[e[x]]=e[u];o=o+l;e=a[o];n[e[O]]=e[u];o=o+l;e=a[o];d=e[x]n[d]=n[d](_(n,d+l,e[f]))o=o+l;e=a[o];d=e[O]n[d](n[d+i])o=o+l;e=a[o];n[e[t]]=s[e[h]];o=o+l;e=a[o];n[e[t]]();o=o+l;e=a[o];o=e[h];break end while(d)/((0x61b1b/(-120+0x131)))==2552 do s[e[g]]=n[e[x]];break end;break;end while 2965==(d)/((0x13d5-2598))do d=(14195757)while(729/0x1b)>=r do d-= d local d=e[u];local o=n[d]for e=d+1,e[S]do o=o..n[e];end;n[e[t]]=o;break;end while(d)/((0x1ea4-3977))==3671 do d=(15726316)while r>((70+-0x1c)+-#[[zNugget is dad]])do d-= d local d=e[k];local o=n[e[f]];n[d+1]=o;n[d]=o[e[P]];break end while 3884==(d)/((8217-0x1048))do if not n[e[c]]then o=o+i;else o=e[h];end;break end;break;end break;end break;end break;end while(d)/((335880/0x78))==1849 do d=(133168)while r<=((0x28da/249)+-#"test 123")do d-= d d=(6983844)while r<=(-0x41+96)do d-= d d=(705364)while r>(-#[[big hard cock]]+(0x433/25))do d-= d if(n[e[k]]~=e[S])then o=o+i;else o=e[f];end;break end while(d)/((-#'print'+(0x3d5+-74)))==782 do B[e[h]]=n[e[c]];break end;break;end while(d)/((4101-0x841))==3513 do d=(3065118)while(1600/0x32)>=r do d-= d n[e[t]]=e[h];break;end while(d)/((731101/0xef))==1002 do d=(4503912)while r>(0x927/71)do d-= d n[e[k]]=n[e[f]][e[m]];break end while 3876==(d)/((2396-0x4d2))do n[e[c]]=n[e[f]]-n[e[P]];break end;break;end break;end break;end while 287==(d)/(((0xbc31/101)+-#[[amena jumping]]))do d=(368520)while r<=(-#[[require]]+(-92+0x88))do d-= d d=(319240)while(0xc4-161)>=r do d-= d local o=e[O];local d=n[o];for e=o+1,e[w]do z(d,n[e])end;break;end while(d)/((((-109+0xbb0)-1476)+-#'dont use it anymore'))==230 do d=(255816)while((0x1050/87)+-#"deobfuscated")<r do d-= d local i;local r;local d;n[e[c]]=e[h];o=o+l;e=a[o];n[e[k]]=e[b];o=o+l;e=a[o];n[e[N]]=#n[e[h]];o=o+l;e=a[o];n[e[N]]=e[b];o=o+l;e=a[o];d=e[x];r=n[d]i=n[d+2];if(i>0)then if(r>n[d+1])then o=e[b];else n[d+3]=r;end elseif(r<n[d+1])then o=e[b];else n[d+3]=r;end break end while 2584==(d)/((0x122d/47))do n[e[k]]=e[w];break end;break;end break;end while(d)/((0x1a29-3377))==111 do d=(1675200)while(0x95-111)>=r do d-= d local d=e[u];local o=n[d]for e=d+1,e[D]do o=o..n[e];end;n[e[t]]=o;break;end while(d)/((43200/0x24))==1396 do d=(146782)while(-0x11+56)<r do d-= d n[e[c]]=p(v[e[h]],nil,s);break end while 1858==(d)/((175-0x60))do if(n[e[c]]~=e[m])then o=o+i;else o=e[w];end;break end;break;end break;end break;end break;end break;end break;end while(d)/((458+-0x63))==2890 do d=(7680888)while r<=(6588/0x6c)do d-= d d=(10009760)while r<=(124-0x4a)do d-= d d=(3462586)while r<=(0x7e-81)do d-= d d=(1311856)while(0x57+-45)>=r do d-= d d=(680592)while(-0x31+90)<r do d-= d local e=e[O]n[e](n[e+i])break end while(d)/((43824/0xf9))==3867 do local e=e[x]n[e]=n[e](n[e+i])break end;break;end while 3094==(d)/((17808/0x2a))do d=(5648520)while(0x45+(-22-0x4))>=r do d-= d n[e[c]]=n[e[w]][n[e[S]]];break;end while 1545==(d)/((7360-0xe78))do d=(1891260)while r>(0x25d0/220)do d-= d local e=e[c]n[e]=n[e](n[e+i])break end while 532==(d)/((654120/0xb8))do if(n[e[x]]==n[e[D]])then o=o+i;else o=e[b];end;break end;break;end break;end break;end while(d)/((0xf63-1997))==1783 do d=(2462793)while(0x66+-55)>=r do d-= d d=(334880)while r>(161-0x73)do d-= d do return n[e[N]]end break end while(d)/((((0x71e+-85)-0x3a0)+-#'Dick'))==416 do n[e[N]]={};break end;break;end while 3903==(d)/((-104+0x2df))do d=(1581008)while(210-0xa2)>=r do d-= d local i;local r;local d;n[e[t]]={};o=o+l;e=a[o];n[e[t]]=s[e[u]];o=o+l;e=a[o];n[e[N]]=e[g];o=o+l;e=a[o];n[e[t]]=e[f];o=o+l;e=a[o];n[e[O]]=e[u];o=o+l;e=a[o];d=e[k]n[d]=n[d](_(n,d+l,e[b]))o=o+l;e=a[o];n[e[O]]={};o=o+l;e=a[o];n[e[c]]={};o=o+l;e=a[o];n[e[c]]=s[e[g]];o=o+l;e=a[o];n[e[t]]=e[f];o=o+l;e=a[o];n[e[x]]=e[h];o=o+l;e=a[o];n[e[O]]=e[b];o=o+l;e=a[o];d=e[x]n[d]=n[d](_(n,d+l,e[g]))o=o+l;e=a[o];n[e[x]]=s[e[u]];o=o+l;e=a[o];d=e[x];r=n[e[b]];n[d+1]=r;n[d]=r[e[M]];o=o+l;e=a[o];n[e[x]]=e[g];o=o+l;e=a[o];d=e[k]n[d]=n[d](_(n,d+l,e[w]))o=o+l;e=a[o];n[e[t]]=n[e[u]][e[M]];o=o+l;e=a[o];n[e[c]]=n[e[g]][e[P]];o=o+l;e=a[o];n[e[t]][n[e[f]]]=n[e[P]];o=o+l;e=a[o];n[e[O]]=s[e[f]];o=o+l;e=a[o];n[e[t]]=e[b];o=o+l;e=a[o];n[e[c]]=e[w];o=o+l;e=a[o];n[e[k]]=e[u];o=o+l;e=a[o];d=e[O]n[d]=n[d](_(n,d+l,e[b]))o=o+l;e=a[o];n[e[x]]=s[e[b]];o=o+l;e=a[o];d=e[k];r=n[e[b]];n[d+1]=r;n[d]=r[e[M]];o=o+l;e=a[o];n[e[k]]=s[e[g]];o=o+l;e=a[o];n[e[c]]=e[f];o=o+l;e=a[o];n[e[x]]=e[b];o=o+l;e=a[o];n[e[k]]=e[g];o=o+l;e=a[o];d=e[c]n[d]=n[d](_(n,d+l,e[b]))o=o+l;e=a[o];d=e[N]n[d]=n[d](_(n,d+l,e[g]))o=o+l;e=a[o];n[e[k]][n[e[w]]]=n[e[S]];o=o+l;e=a[o];d=e[c];i=n[d];for e=d+1,e[u]do z(i,n[e])end;break;end while 2764==(d)/((636+(-0xa00/40)))do d=(7164930)while(-0x41+114)<r do d-= d local o=e[x];local d=n[o];for e=o+1,e[g]do z(d,n[e])end;break end while(d)/((3642+-0x1b))==1982 do do return end;break end;break;end break;end break;end break;end while(d)/((-0x5f+3523))==2920 do d=(2863004)while r<=(-#'mee6 what are you doing to my wife'+(0x1961/73))do d-= d d=(4668750)while r<=(-#'This is working now'+(189-0x76))do d-= d d=(846214)while r>(0x2640/192)do d-= d local r;local d;n[e[x]]={};o=o+l;e=a[o];n[e[k]]=B[e[h]];o=o+l;e=a[o];n[e[t]][e[f]]=n[e[C]];o=o+l;e=a[o];n[e[c]]=s[e[h]];o=o+l;e=a[o];n[e[k]]=e[f];o=o+l;e=a[o];n[e[k]]=e[b];o=o+l;e=a[o];n[e[N]]=e[b];o=o+l;e=a[o];d=e[x]n[d]=n[d](_(n,d+l,e[h]))o=o+l;e=a[o];n[e[O]][e[w]]=n[e[C]];o=o+l;e=a[o];n[e[t]]={};o=o+l;e=a[o];n[e[x]]=s[e[f]];o=o+l;e=a[o];n[e[c]]=e[g];o=o+l;e=a[o];n[e[O]]=e[b];o=o+l;e=a[o];n[e[N]]=e[g];o=o+l;e=a[o];d=e[x]n[d]=n[d](_(n,d+l,e[h]))o=o+l;e=a[o];n[e[x]]=s[e[h]];o=o+l;e=a[o];n[e[t]]=e[h];o=o+l;e=a[o];n[e[k]]=e[u];o=o+l;e=a[o];n[e[t]]=e[g];o=o+l;e=a[o];d=e[O]n[d]=n[d](_(n,d+l,e[f]))o=o+l;e=a[o];n[e[O]][n[e[h]]]=n[e[D]];o=o+l;e=a[o];n[e[c]][e[f]]=n[e[P]];o=o+l;e=a[o];n[e[c]]=s[e[g]];o=o+l;e=a[o];d=e[c];r=n[e[b]];n[d+1]=r;n[d]=r[e[P]];o=o+l;e=a[o];n[e[c]]=e[b];o=o+l;e=a[o];d=e[k]n[d]=n[d](_(n,d+l,e[b]))o=o+l;e=a[o];d=e[k];r=n[e[b]];n[d+1]=r;n[d]=r[e[D]];o=o+l;e=a[o];n[e[x]]=n[e[w]];o=o+l;e=a[o];d=e[k]n[d]=n[d](_(n,d+l,e[u]))o=o+l;e=a[o];n[e[x]][e[w]]=n[e[C]];o=o+l;e=a[o];d=e[c]n[d]=n[d](n[d+i])break end while(d)/((899+-0x5a))==1046 do if(n[e[N]]==n[e[P]])then o=o+i;else o=e[f];end;break end;break;end while 1875==(d)/((-#'looadstring'+(-0x3d+2562)))do d=(5283813)while(0x26b7/187)>=r do d-= d n[e[t]]=B[e[b]];o=o+l;e=a[o];n[e[t]]=#n[e[g]];o=o+l;e=a[o];B[e[f]]=n[e[N]];o=o+l;e=a[o];n[e[x]]=B[e[g]];o=o+l;e=a[o];n[e[O]]=#n[e[u]];o=o+l;e=a[o];B[e[w]]=n[e[k]];o=o+l;e=a[o];do return end;break;end while(d)/((-#[[test123]]+((1242783-0x97b85)/0xc5)))==1679 do d=(6200372)while r>(-#"loadstring"+(148+-0x54))do d-= d n[e[k]]=#n[e[f]];break end while(d)/((6533-0xceb))==1922 do local d=e[N];local l=n[d]local a=n[d+2];if(a>0)then if(l>n[d+1])then o=e[g];else n[d+3]=l;end elseif(l<n[d+1])then o=e[f];else n[d+3]=l;end break end;break;end break;end break;end while(d)/((((-14168/0xb8)+1297)+-#"big hard cock"))==2372 do d=(3127590)while((0xbe-125)+-#"require")>=r do d-= d d=(6839647)while((0xe2-154)+-#'187 ist die gang')>=r do d-= d local r;local d;n[e[t]]=n[e[u]][e[M]];o=o+l;e=a[o];n[e[O]]={};o=o+l;e=a[o];n[e[x]]=B[e[f]];o=o+l;e=a[o];n[e[c]][e[w]]=n[e[P]];o=o+l;e=a[o];n[e[N]]=s[e[g]];o=o+l;e=a[o];n[e[c]]=e[h];o=o+l;e=a[o];n[e[O]]=e[u];o=o+l;e=a[o];n[e[O]]=e[b];o=o+l;e=a[o];d=e[O]n[d]=n[d](_(n,d+l,e[g]))o=o+l;e=a[o];n[e[x]][e[b]]=n[e[P]];o=o+l;e=a[o];n[e[x]]={};o=o+l;e=a[o];n[e[x]]=s[e[h]];o=o+l;e=a[o];n[e[c]]=e[u];o=o+l;e=a[o];n[e[k]]=e[b];o=o+l;e=a[o];n[e[c]]=e[h];o=o+l;e=a[o];d=e[x]n[d]=n[d](_(n,d+l,e[f]))o=o+l;e=a[o];n[e[N]]=s[e[b]];o=o+l;e=a[o];n[e[t]]=e[h];o=o+l;e=a[o];n[e[O]]=e[w];o=o+l;e=a[o];n[e[N]]=e[w];o=o+l;e=a[o];d=e[x]n[d]=n[d](_(n,d+l,e[u]))o=o+l;e=a[o];n[e[c]][n[e[b]]]=n[e[P]];o=o+l;e=a[o];n[e[x]][e[g]]=n[e[D]];o=o+l;e=a[o];n[e[O]]=s[e[u]];o=o+l;e=a[o];d=e[O];r=n[e[f]];n[d+1]=r;n[d]=r[e[D]];o=o+l;e=a[o];n[e[c]]=e[w];o=o+l;e=a[o];d=e[c]n[d]=n[d](_(n,d+l,e[h]))o=o+l;e=a[o];d=e[t];r=n[e[u]];n[d+1]=r;n[d]=r[e[D]];o=o+l;e=a[o];n[e[N]]=n[e[f]];o=o+l;e=a[o];d=e[x]n[d]=n[d](_(n,d+l,e[b]))o=o+l;e=a[o];n[e[N]][e[g]]=n[e[M]];o=o+l;e=a[o];d=e[N]n[d]=n[d](n[d+i])o=o+l;e=a[o];o=e[h];break;end while 3391==(d)/((96816/0x30))do d=(1829058)while r>((0xb1-110)+-#[[loadstring]])do d-= d n[e[N]]=(e[u]~=0);o=o+i;break end while 3531==(d)/((0x1ffee/253))do local o=e[t]n[o]=n[o](_(n,o+l,e[w]))break end;break;end break;end while(d)/(((39292/0x16)+-#'This is working now'))==1770 do d=(4159084)while(5015/0x55)>=r do d-= d local x=v[e[w]];local r;local d={};r=A({},{__index=function(o,e)local e=d[e];return e[1][e[2]];end,__newindex=function(n,e,o)local e=d[e]e[1][e[2]]=o;end;});for l=1,e[C]do o=o+i;local e=a[o];if e[(-#[[me big peepee]]+(64+-0x32))]==63 then d[l-1]={n,e[w]};else d[l-1]={B,e[g]};end;y[#y+1]=d;end;n[e[c]]=p(x,r,s);break;end while(d)/((128245/0x41))==2108 do d=(1986250)while((-0x2f+250)-143)<r do d-= d o=e[b];break end while(d)/((0x498c2/241))==1589 do local d=e[N];local a=n[d+2];local l=n[d]+a;n[d]=l;if(a>0)then if(l<=n[d+1])then o=e[g];n[d+3]=l;end elseif(l>=n[d+1])then o=e[h];n[d+3]=l;end break end;break;end break;end break;end break;end break;end while(d)/((0x79e+-24))==3988 do d=(6697082)while(0xf88/56)>=r do d-= d d=(9068768)while(((-0x5d36/246)+-#"Never gonna give u up")+0xb8)>=r do d-= d d=(719820)while r<=(165-0x66)do d-= d d=(9750249)while r>(0x22a2/143)do d-= d n[e[c]]=n[e[f]];break end while 3001==(d)/((792756/0xf4))do n[e[t]][n[e[f]]]=n[e[M]];break end;break;end while(d)/((-126+0x282))==1395 do d=(2730348)while r<=(148+-0x54)do d-= d n[e[x]]();break;end while 954==(d)/(((-0x182c/221)+0xb4a))do d=(1550840)while(((31202-0x3d2e)/0xb9)+-#[[dont use it anymore]])<r do d-= d if(n[e[O]]~=n[e[S]])then o=o+i;else o=e[u];end;break end while 1370==(d)/((0x1c308/102))do s[e[f]]=n[e[c]];o=o+l;e=a[o];n[e[x]]={};o=o+l;e=a[o];n[e[k]]={};o=o+l;e=a[o];s[e[f]]=n[e[O]];o=o+l;e=a[o];n[e[t]]=s[e[b]];o=o+l;e=a[o];if(n[e[x]]~=e[C])then o=o+i;else o=e[w];end;break end;break;end break;end break;end while(d)/((-#'test123'+(0x2b2d4/52)))==2672 do d=(157584)while(-#'big hard cock'+(223-0x8e))>=r do d-= d d=(1331940)while(((-36+0xd8)+-#'cum fuck')-0x69)<r do d-= d n[e[c]]=B[e[f]];break end while 2810==(d)/((0x426-588))do if n[e[c]]then o=o+l;else o=e[h];end;break end;break;end while 1876==(d)/((20832/0xf8))do d=(4124682)while r<=(184+-0x73)do d-= d n[e[O]]=n[e[b]]%e[m];break;end while(d)/((-#[[free trojan]]+(3764-0x762)))==2214 do d=(8488909)while r>((-0x15+104)+-#"fish was here")do d-= d n[e[x]]=p(v[e[u]],nil,s);break end while(d)/(((65839-0x80b5)/10))==2581 do local o=e[O]n[o]=n[o](_(n,o+l,e[g]))break end;break;end break;end break;end break;end while(d)/((0xc07+-117))==2261 do d=(2386086)while r<=(-#'black mess more like white mesa'+(0x106-155))do d-= d d=(8210748)while(242-0xa9)>=r do d-= d d=(7562954)while r>((0x1ed110/187)/150)do d-= d local d=e[k];local a=n[d+2];local l=n[d]+a;n[d]=l;if(a>0)then if(l<=n[d+1])then o=e[w];n[d+3]=l;end elseif(l>=n[d+1])then o=e[w];n[d+3]=l;end break end while 2359==(d)/(((282480/0x58)+-#'Dick'))do n[e[O]]=(e[w]~=0);break end;break;end while 4017==(d)/((0x47dc0/144))do d=(337326)while(1258/0x11)>=r do d-= d s[e[h]]=n[e[k]];break;end while(d)/(((0x48a-603)+-#[[notbelugafan was here]]))==627 do d=(3404115)while r>((-86+0xb6)+-#'Cock and ball torture')do d-= d if not n[e[k]]then o=o+i;else o=e[g];end;break end while 1495==(d)/((-0x30+2325))do n[e[N]]=n[e[f]][n[e[M]]];break end;break;end break;end break;end while 2669==(d)/((0x26322/175))do d=(6437500)while r<=(199-0x78)do d-= d d=(1093950)while r<=(1232/0x10)do d-= d n[e[N]]=(e[u]~=0);o=o+i;break;end while(d)/((0xdf70/40))==765 do d=(464360)while r>(0x3dda/203)do d-= d local d;s[e[h]]=n[e[k]];o=o+l;e=a[o];n[e[N]]=s[e[u]];o=o+l;e=a[o];n[e[k]]=e[w];o=o+l;e=a[o];n[e[O]]=e[h];o=o+l;e=a[o];n[e[t]]=e[g];o=o+l;e=a[o];d=e[t]n[d]=n[d](_(n,d+l,e[u]))o=o+l;e=a[o];n[e[k]]=s[e[h]];break end while(d)/((-0x53+2553))==188 do B[e[w]]=n[e[x]];break end;break;end break;end while 3125==(d)/((0x1036-2090))do d=(2582856)while(-#"black mess more like white mesa"+(0x2163/77))>=r do d-= d n[e[x]]=n[e[h]]%e[m];break;end while 1237==(d)/((0x80f88/253))do d=(1290550)while(0x227d/109)<r do d-= d n[e[c]]();break end while(d)/((-#[[mee6 what are you doing to my wife]]+(59220/0x69)))==2435 do local d=e[k];local l=n[d]local a=n[d+2];if(a>0)then if(l>n[d+1])then o=e[f];else n[d+3]=l;end elseif(l<n[d+1])then o=e[w];else n[d+3]=l;end break end;break;end break;end break;end break;end break;end break;end o+= i end;end);end;return p(T(),{},J())()end)_msec({[((365-0xcb)+-#"black mess more like white mesa")]='\115\116'..(function(e)return(e and'((0x50a6/186)+-#"Little kids")')or'\114\105'or'\120\58'end)(((-74+0x5a)+-#"Little kids")==(78-0x48))..'\110g',[(774+(4-0x30))]='\108\100'..(function(e)return(e and'(0x40d8/166)')or'\101\120'or'\119\111'end)((120-0x73)==(-#"Little kids"+(187/0xb)))..'\112',[((-22310/0xe6)+0x15b)]=(function(e)return(e and'(12100/0x79)')and'\98\121'or'\100\120'end)((34+-0x1d)==(-#[[dick cheese]]+(0x4a0/74)))..'\116\101',[(43802/0x79)]='\99'..(function(e)return(e and'(0x3908/146)')and'\90\19\157'or'\104\97'end)((60+-0x37)==(113+-0x6e))..'\114',[(-30+0x227)]='\116\97'..(function(e)return(e and'(12300/0x7b)')and'\64\113'or'\98\108'end)((0x3de/165)==(0x80-123))..'\101',[(0x1858c/214)]=(function(e)return(e and'(-95+0xc3)')or'\115\117'or'\78\107'end)((-#'no thanks'+(0xa44/219))==(-#"Little kids"+(8694/0xcf)))..'\98',[((-41+0x3b4)+-#[[dont use it anymore]])]='\99\111'..(function(e)return(e and'(0x86+-34)')and'\110\99'or'\110\105\103\97'end)((0x53-52)==(-#[[xenny its znugget please respond]]+(0x28da/166)))..'\97\116',[(0x2d3+-94)]=(function(e,o)return(e and'(0xea-134)')and'\48\159\158\188\10'or'\109\97'end)((-#'Fuck nigger wank shit dipshit cunt bullshit fuckyou hoe lol'+(117+(-#[[test123]]+(-0x1fce/177))))==(-#'Nitro Activated'+(315/0xf)))..'\116\104',[(0xb39-1476)]=(function(o,e)return(((109-0x5b)+-#[[big hard cock]])==(0x108/88)and'\48'..'\195'or o..((not'\20\95\69'and'\90'..'\180'or e)))or'\199\203\95'end),[(-#[[test]]+(0x1627c/98))]='\105\110'..(function(e,o)return(e and'((302-0xc3)+-#[[require]])')and'\90\115\138\115\15'or'\115\101'end)((-#[[xenny its znugget please respond]]+(110-0x49))==((5624/0x4a)+-#'guys Please proceed to translate D to Sinhala'))..'\114\116',[((171601/0x9d)+-#[[edp445 what are you doing to my 3 year old son]])]='\117\110'..(function(e,o)return(e and'(0xa7+-67)')or'\112\97'or'\20\38\154'end)((((541-0x14e)+-#"deobfuscated")/0x27)==(-#[[This is working now]]+(225-0xaf)))..'\99\107',[(-26+0x48b)]='\115\101'..(function(e)return(e and'(0xf4-(-116+0x104))')and'\110\112\99\104'or'\108\101'end)(((0x320/40)+-#"Nitro Activated")==(93+-0x3e))..'\99\116',[(102992/0x52)]='\116\111\110'..(function(e,o)return(e and'((5824/0x34)+-#"deobfuscated")')and'\117\109\98'or'\100\97\120\122'end)((((-73+0x1609)/0xe8)+-#"I like gargling cum")==(-#[[fish was here]]+(54-0x24)))..'\101\114'},{[(-#"187 ist die gang"+(0x58-56))]=((getfenv))},((getfenv))()) end)()
+local Player = Players.LocalPlayer
+local Mouse = Player:GetMouse()
 
+local function round(num, bracket)
+	bracket = bracket or 1
+	local a = math.floor(num/bracket + (math.sign(num) * 0.5)) * bracket
+	if a < 0 then
+		a = a + bracket
+	end
+	return a
+end
 
+function lib:Init()
+	local Universal = Instance.new("ScreenGui")
+	local tabContainerBody = Instance.new("Frame")
+	local tabContainer = Instance.new("Frame")
+	local tabFLayout = Instance.new("UIListLayout")
+	
+	local tabLayout = Instance.new("UIListLayout")
+	
+	Universal.Name = "sugoma"
+	Universal.Parent = game:GetService("CoreGui")
+	
+	uis.InputBegan:Connect(function(key, focused)
+		if not focused and key.KeyCode == Enum.KeyCode.RightShift then
+			Universal.Enabled = not Universal.Enabled
+		end
+	end)
+
+	tabContainerBody.Name = "tabContainerBody"
+	tabContainerBody.Parent = Universal
+	tabContainerBody.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+	tabContainerBody.BorderSizePixel = 0
+	tabContainerBody.Position = UDim2.new(0.012, 0, 0.021, 0)
+	tabContainerBody.Size = UDim2.new(0, 37, 0, 37)
+	
+	tabContainer.Name = "tabContainer"
+	tabContainer.Parent = Universal
+	tabContainer.BackgroundColor3 = Color3.fromRGB(153, 153, 153)
+	tabContainer.BackgroundTransparency = 1.000
+	tabContainer.Position = UDim2.new(0.0543293729, 0, 0.0213464703, 0)
+	tabContainer.Size = UDim2.new(0, 147, 0, 596)
+
+	tabFLayout.Name = "tabFLayout"
+	tabFLayout.Parent = tabContainer
+	tabFLayout.SortOrder = Enum.SortOrder.LayoutOrder
+	
+	tabLayout.Name = "tabLayout"
+	tabLayout.Parent = tabContainerBody
+	tabLayout.SortOrder = Enum.SortOrder.LayoutOrder
+	
+	local tab = {}
+	
+	function tab:CreateTab(title, icon)
+		icon = icon or "rbxassetid://4034483344"
+		
+		local tabBtnBG = Instance.new("Frame")
+		local tabButton = Instance.new("ImageButton")
+		local tabBtnToolTip = Instance.new("TextLabel")
+		local tabFrame = Instance.new("Frame")
+		local elementLayout = Instance.new("UIListLayout")
+		local Spacing = Instance.new("TextLabel")
+		
+		tabBtnBG.Name = "tabBtnBG"
+		tabBtnBG.Parent = tabContainerBody
+		tabBtnBG.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+		tabBtnBG.BorderSizePixel = 0
+		tabBtnBG.Size = UDim2.new(0, 37, 0, 37)
+
+		tabButton.Name = "tabButton"
+		tabButton.Parent = tabBtnBG
+		tabButton.AnchorPoint = Vector2.new(0.5, 0.5)
+		tabButton.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+		tabButton.BackgroundTransparency = 1.000
+		tabButton.BorderColor3 = Color3.fromRGB(27, 42, 53)
+		tabButton.BorderSizePixel = 0
+		tabButton.Position = UDim2.new(0.5, 0, 0.5, 0)
+		tabButton.Size = UDim2.new(0, 20, 0, 20)
+		tabButton.Image = icon
+		tabButton.MouseButton1Click:Connect(function()
+			for i, v in pairs(tabContainer:GetChildren()) do
+				if v:IsA("Frame") then
+					v.Visible = false
+				end
+			end
+			for _,c in pairs(Universal.tabContainerBody:GetDescendants()) do
+				if c.Name == "tabButton" then
+					c.ImageColor3 = Color3.fromRGB(255, 255, 255)
+					c.Parent.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+				end
+			end
+			tabFrame.Visible = true
+			tabButton.ImageColor3 = Color3.fromRGB(15, 15, 15)
+			tabBtnBG.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		end)
+		
+		tabBtnToolTip.Name = "tabBtnToolTip"
+		tabBtnToolTip.Parent = tabButton
+		tabBtnToolTip.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		tabBtnToolTip.BorderSizePixel = 0
+		tabBtnToolTip.Position = UDim2.new(1.75, 0, 0.0500000007, 0)
+		tabBtnToolTip.Size = UDim2.new(0, 0, 0, 19) -- 54
+		tabBtnToolTip.Font = Enum.Font.Gotham
+		tabBtnToolTip.Text = title
+		tabBtnToolTip.TextColor3 = Color3.fromRGB(15, 15, 15)
+		tabBtnToolTip.TextSize = 14.000
+		tabBtnToolTip.ZIndex = 500
+		tabBtnToolTip.ClipsDescendants = true
+		
+		tabBtnBG.MouseEnter:Connect(function()
+			local TI = TweenInfo.new(0.16, Enum.EasingStyle.Sine, Enum.EasingDirection.In)
+			
+			TweenService:Create(tabBtnToolTip, TI, {Size = UDim2.new(0, 48, 0, 19)}):Play()
+		end)
+		
+		tabBtnBG.MouseLeave:Connect(function()
+			local TI = TweenInfo.new(0.16, Enum.EasingStyle.Sine, Enum.EasingDirection.In)
+
+			TweenService:Create(tabBtnToolTip, TI, {Size = UDim2.new(0, 0, 0, 19)}):Play()
+		end)
+
+		tabFrame.Name = title.."_tabframe"
+		tabFrame.Parent = tabContainer
+		tabFrame.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+		tabFrame.BorderSizePixel = 0
+		tabFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+		tabFrame.Position = UDim2.new(0.117, 0, 0.054, 0)
+		tabFrame.Size = UDim2.new(0, 147, 0, 6)
+		tabFrame.Visible = false
+		
+		local function Resize(num)
+			tabFrame.Size = tabFrame.Size + UDim2.new(0, 0, 0, num)
+		end
+
+		elementLayout.Name = "elementLayout"
+		elementLayout.Parent = tabFrame
+		elementLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+		elementLayout.SortOrder = Enum.SortOrder.LayoutOrder
+		elementLayout.Padding = UDim.new(0, 2)
+
+		Spacing.Parent = tabFrame
+		Spacing.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Spacing.BackgroundTransparency = 1.000
+		Spacing.BorderSizePixel = 0
+		Spacing.Position = UDim2.new(0, 0, 0.235294119, 0)
+		Spacing.Size = UDim2.new(0, 147, 0, 3)
+		Spacing.Font = Enum.Font.SourceSans
+		Spacing.Text = ""
+		Spacing.TextColor3 = Color3.fromRGB(0, 0, 0)
+		Spacing.TextSize = 14.000
+		
+		local elements = {}
+		
+		function elements:CreateButton(text, callback)
+			text = text or "Button"
+			callback = callback or function() end
+			
+			local txtButton = Instance.new("TextButton")
+			local Touch = Instance.new("ImageLabel")
+
+			txtButton.Name = "txtButton"
+			txtButton.Parent = tabFrame
+			txtButton.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+			txtButton.BorderSizePixel = 0
+			txtButton.Size = UDim2.new(0, 134, 0, 30)
+			txtButton.AutoButtonColor = false
+			txtButton.Font = Enum.Font.Gotham
+			txtButton.Text = "  " .. text
+			txtButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txtButton.TextSize = 14.000
+			txtButton.TextXAlignment = Enum.TextXAlignment.Left
+			txtButton.MouseButton1Click:Connect(function()
+				callback()
+			end)
+
+			Touch.Parent = txtButton
+			Touch.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Touch.BackgroundTransparency = 1.000
+			Touch.BorderSizePixel = 0
+			Touch.Position = UDim2.new(0.810000002, 0, 0.159999996, 0)
+			Touch.Size = UDim2.new(0, 21, 0, 21)
+			Touch.Image = "rbxassetid://3926305904"
+			Touch.ImageRectOffset = Vector2.new(84, 204)
+			Touch.ImageRectSize = Vector2.new(42, 42)
+			
+			Resize(33)
+		end
+		
+		function elements:CreateToggle(text, callback)
+			text = text or "Toggle"
+			callback = callback or function() end
+			
+			local toggleFrame = Instance.new("TextLabel")
+			local toggleButton = Instance.new("TextButton")
+			
+			local State = false
+
+			toggleFrame.Name = "toggleFrame"
+			toggleFrame.Parent = tabFrame
+			toggleFrame.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+			toggleFrame.BorderSizePixel = 0
+			toggleFrame.Size = UDim2.new(0, 134, 0, 30)
+			toggleFrame.Font = Enum.Font.Gotham
+			toggleFrame.Text = "  " .. text
+			toggleFrame.TextColor3 = Color3.fromRGB(255, 255, 255)
+			toggleFrame.TextSize = 14.000
+			toggleFrame.TextXAlignment = Enum.TextXAlignment.Left
+
+			toggleButton.Name = "toggleButton"
+			toggleButton.Parent = toggleFrame
+			toggleButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+			toggleButton.BorderColor3 = Color3.fromRGB(60, 60, 60)
+			toggleButton.Position = UDim2.new(0.828, 0, 0.233, 0)
+			toggleButton.Size = UDim2.new(0, 15, 0, 15)
+			toggleButton.AutoButtonColor = false
+			toggleButton.Font = Enum.Font.SourceSans
+			toggleButton.Text = ""
+			toggleButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+			toggleButton.TextSize = 14.000
+			toggleButton.MouseButton1Click:Connect(function()
+				State = not State
+				if State then
+					toggleButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					callback(State)
+				else
+					toggleButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+					callback(State)
+				end
+			end)
+			
+			Resize(33)
+		end
+		
+		function elements:CreateBind(text, key, callback)
+			text = text or "Bind"
+			key = key or Enum.KeyCode.Q
+			callback = callback or function() end
+			
+			local blacklisted = {
+				Return = true,
+				Space = true,
+				Tab = true,
+				W = true,
+				A = true,
+				S = true,
+				D = true,
+				I = true,
+				O = true,
+				Unknown = true
+			}
+
+			local short = {
+				RightControl = "RCtrl",
+				LeftControl = "LCtrl",
+				LeftShift = "LShift",
+				RightShift = "RShift",
+				MouseButton1 = "M1",
+				MouseButton2 = "M2",
+				LeftAlt = "LAlt",
+				RightAlt = "RAlt"
+			}
+
+			local oldKey = key.Name
+			
+			local keybindFrame = Instance.new("TextLabel")
+			local keybindButton = Instance.new("TextButton")
+
+			keybindFrame.Name = "keybindFrame"
+			keybindFrame.Parent = tabFrame
+			keybindFrame.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+			keybindFrame.BorderSizePixel = 0
+			keybindFrame.Size = UDim2.new(0, 134, 0, 30)
+			keybindFrame.Font = Enum.Font.Gotham
+			keybindFrame.Text = "  " .. text
+			keybindFrame.TextColor3 = Color3.fromRGB(255, 255, 255)
+			keybindFrame.TextSize = 14.000
+			keybindFrame.TextXAlignment = Enum.TextXAlignment.Left
+
+			keybindButton.Name = "keybindButton"
+			keybindButton.Parent = keybindFrame
+			keybindButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+			keybindButton.BorderColor3 = Color3.fromRGB(60, 60, 60)
+			keybindButton.Position = UDim2.new(0.716417909, 0, 0.233333334, 0)
+			keybindButton.Size = UDim2.new(0, 30, 0, 15)
+			keybindButton.AutoButtonColor = false
+			keybindButton.Font = Enum.Font.Gotham
+			keybindButton.Text = oldKey
+			keybindButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+			keybindButton.TextSize = 14.000
+			keybindButton.MouseButton1Click:Connect(function()
+				keybindButton.Text = ". . ."
+				local inputbegan = game:GetService("UserInputService").InputBegan:wait()
+				if not blacklisted[inputbegan.KeyCode.Name] then
+					keybindButton.Text = short[inputbegan.KeyCode.Name] or inputbegan.KeyCode.Name
+					oldKey = inputbegan.KeyCode.Name
+				else
+					keybindButton.Text = short[oldKey] or oldKey
+				end
+			end)
+			
+			game:GetService("UserInputService").InputBegan:connect(function(keyPressed, focused)
+				if not focused then
+					if keyPressed.KeyCode.Name == oldKey then
+						callback(oldKey)
+					end
+				end
+			end)
+			
+			Resize(33)
+		end
+		
+		function elements:CreateColorpicker(text, preset, callback)
+			text = text or "Colorpicker"
+			preset = preset or Color3.fromRGB(255, 0, 0)
+			callback = callback or function() end
+			
+			local ColorPickerToggled = false
+			local OldToggleColor = Color3.fromRGB(0, 0, 0)
+			local OldColor = Color3.fromRGB(0, 0, 0)
+			local OldColorSelectionPosition = nil
+			local OldHueSelectionPosition = nil
+			local ColorH, ColorS, ColorV = 1, 1, 1
+			local RainbowColorPicker = false
+			local ColorPickerInput = nil
+			local ColorInput = nil
+			local HueInput = nil
+			
+			local cPickerLabel = Instance.new("TextLabel")
+			local cPickerBtn = Instance.new("TextButton")
+			local cPickerFrame = Instance.new("Frame")
+			local Color = Instance.new("ImageButton")
+			local ColorSelection = Instance.new("ImageLabel")
+			local Hue = Instance.new("ImageButton")
+			local HueGradient = Instance.new("UIGradient")
+			local HueSelection = Instance.new("ImageLabel")
+			local doneBtn = Instance.new("TextButton")
+			local doneTouch = Instance.new("ImageLabel")
+
+			cPickerLabel.Name = "cPickerLabel"
+			cPickerLabel.Parent = tabFrame
+			cPickerLabel.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+			cPickerLabel.BorderSizePixel = 0
+			cPickerLabel.Size = UDim2.new(0, 134, 0, 30)
+			cPickerLabel.Font = Enum.Font.Gotham
+			cPickerLabel.Text = "  Colorpicker"
+			cPickerLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+			cPickerLabel.TextSize = 14.000
+			cPickerLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+			cPickerBtn.Name = "cPickerBtn"
+			cPickerBtn.Parent = cPickerLabel
+			cPickerBtn.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+			cPickerBtn.BorderColor3 = Color3.fromRGB(60, 60, 60)
+			cPickerBtn.Position = UDim2.new(0.832388103, 0, 0.233333334, 0)
+			cPickerBtn.Size = UDim2.new(0, 15, 0, 15)
+			cPickerBtn.AutoButtonColor = false
+			cPickerBtn.Font = Enum.Font.Gotham
+			cPickerBtn.Text = ""
+			cPickerBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+			cPickerBtn.TextSize = 14.000
+			
+			cPickerFrame.Name = "cPickerFrame"
+			cPickerFrame.Parent = cPickerLabel
+			cPickerFrame.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+			cPickerFrame.BorderSizePixel = 0
+			cPickerFrame.Position = UDim2.new(1.119403, 0, 0, 0)
+			cPickerFrame.Size = UDim2.new(0, 171, 0, 162)
+			cPickerFrame.Visible = false
+
+			Color.Name = "Color"
+			Color.Parent = cPickerFrame
+			Color.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+			Color.BorderSizePixel = 0
+			Color.Position = UDim2.new(0.0529520139, 0, 0.0479452051, 0)
+			Color.Size = UDim2.new(0, 125, 0, 108)
+			Color.AutoButtonColor = false
+			Color.Image = "rbxassetid://4155801252"
+
+			ColorSelection.Name = "ColorSelection"
+			ColorSelection.Parent = Color
+			ColorSelection.AnchorPoint = Vector2.new(0.5, 0.5)
+			ColorSelection.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			ColorSelection.BackgroundTransparency = 1.000
+			ColorSelection.BorderSizePixel = 0
+			ColorSelection.Position = UDim2.new(preset and select(3, Color3.toHSV(preset)))
+			ColorSelection.Size = UDim2.new(0, 12, 0, 12)
+			ColorSelection.Image = "http://www.roblox.com/asset/?id=4805639000"
+
+			Hue.Name = "Hue"
+			Hue.Parent = cPickerFrame
+			Hue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Hue.BorderSizePixel = 0
+			Hue.Position = UDim2.new(0.830729902, 0, 0.0479452051, 0)
+			Hue.Size = UDim2.new(0, 21, 0, 108)
+			Hue.AutoButtonColor = false
+
+			HueGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 4)), ColorSequenceKeypoint.new(0.20, Color3.fromRGB(234, 255, 0)), ColorSequenceKeypoint.new(0.40, Color3.fromRGB(21, 255, 0)), ColorSequenceKeypoint.new(0.60, Color3.fromRGB(0, 255, 255)), ColorSequenceKeypoint.new(0.80, Color3.fromRGB(0, 17, 255)), ColorSequenceKeypoint.new(0.90, Color3.fromRGB(255, 0, 251)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 4))}
+			HueGradient.Rotation = 270
+			HueGradient.Name = "HueGradient"
+			HueGradient.Parent = Hue
+
+			HueSelection.Name = "HueSelection"
+			HueSelection.Parent = Hue
+			HueSelection.AnchorPoint = Vector2.new(0.5, 0.5)
+			HueSelection.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			HueSelection.BackgroundTransparency = 1.000
+			HueSelection.BorderSizePixel = 0
+			HueSelection.Position = UDim2.new(0.48, 0, 1 - select(1, Color3.toHSV(preset)))
+			HueSelection.Size = UDim2.new(0, 12, 0, 12)
+			HueSelection.Image = "http://www.roblox.com/asset/?id=4805639000"
+			
+			cPickerBtn.MouseButton1Click:Connect(function()
+				ColorPickerToggled = not ColorPickerToggled
+				for i,v in pairs(tabFrame:GetDescendants()) do
+					if v.Name == "cPickerFrame" then
+						v.Visible = false
+					elseif v.Name == "dpListContainer" then
+						v.Visible = false
+					end
+				end
+				cPickerFrame.Visible = ColorPickerToggled
+			end)
+
+			local function UpdateColorPicker(nope)
+				cPickerBtn.BackgroundColor3 = Color3.fromHSV(ColorH, ColorS, ColorV)
+				Color.BackgroundColor3 = Color3.fromHSV(ColorH, 1, 1)
+
+				callback(cPickerBtn.BackgroundColor3)
+			end
+
+			ColorH =
+				1 -
+				(math.clamp(HueSelection.AbsolutePosition.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) /
+					Hue.AbsoluteSize.Y)
+			ColorS =
+				(math.clamp(ColorSelection.AbsolutePosition.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) /
+					Color.AbsoluteSize.X)
+			ColorV =
+				1 -
+				(math.clamp(ColorSelection.AbsolutePosition.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) /
+					Color.AbsoluteSize.Y)
+
+			cPickerBtn.BackgroundColor3 = preset
+			Color.BackgroundColor3 = preset
+			callback(cPickerBtn.BackgroundColor3)
+
+			Color.InputBegan:Connect(
+				function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if RainbowColorPicker then
+							return
+						end
+
+						if ColorInput then
+							ColorInput:Disconnect()
+						end
+
+						ColorInput =
+							RunService.RenderStepped:Connect(
+								function()
+								local ColorX =
+									(math.clamp(Mouse.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) /
+										Color.AbsoluteSize.X)
+								local ColorY =
+									(math.clamp(Mouse.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) /
+										Color.AbsoluteSize.Y)
+
+								ColorSelection.Position = UDim2.new(ColorX, 0, ColorY, 0)
+								ColorS = ColorX
+								ColorV = 1 - ColorY
+
+								UpdateColorPicker(true)
+							end
+							)
+					end
+				end
+			)
+
+			Color.InputEnded:Connect(
+				function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if ColorInput then
+							ColorInput:Disconnect()
+						end
+					end
+				end
+			)
+
+			Hue.InputBegan:Connect(
+				function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if RainbowColorPicker then
+							return
+						end
+
+						if HueInput then
+							HueInput:Disconnect()
+						end
+
+						HueInput =
+							RunService.RenderStepped:Connect(
+								function()
+								local HueY =
+									(math.clamp(Mouse.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) /
+										Hue.AbsoluteSize.Y)
+
+								HueSelection.Position = UDim2.new(0.48, 0, HueY, 0)
+								ColorH = 1 - HueY
+
+								UpdateColorPicker(true)
+							end
+							)
+					end
+				end
+			)
+
+			Hue.InputEnded:Connect(
+				function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if HueInput then
+							HueInput:Disconnect()
+						end
+					end
+				end
+			)
+			
+			doneBtn.Name = "doneBtn"
+			doneBtn.Parent = cPickerFrame
+			doneBtn.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+			doneBtn.BorderSizePixel = 0
+			doneBtn.Position = UDim2.new(0.0492899045, 0, 0.756858528, 0)
+			doneBtn.Size = UDim2.new(0, 154, 0, 30)
+			doneBtn.AutoButtonColor = false
+			doneBtn.Font = Enum.Font.Gotham
+			doneBtn.Text = "  Done"
+			doneBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+			doneBtn.TextSize = 14.000
+			doneBtn.TextXAlignment = Enum.TextXAlignment.Left
+			doneBtn.MouseButton1Click:Connect(function()
+				ColorPickerToggled = false
+				cPickerFrame.Visible = false
+				callback(cPickerBtn.BackgroundColor3)
+			end)
+			
+			doneTouch.Name = "doneTouch"
+			doneTouch.Parent = doneBtn
+			doneTouch.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			doneTouch.BackgroundTransparency = 1.000
+			doneTouch.BorderSizePixel = 0
+			doneTouch.Position = UDim2.new(0.829999983, 0, 0.180000007, 0)
+			doneTouch.Size = UDim2.new(0, 21, 0, 21)
+			doneTouch.Image = "rbxassetid://3926305904"
+			doneTouch.ImageRectOffset = Vector2.new(84, 204)
+			doneTouch.ImageRectSize = Vector2.new(42, 42)
+			
+			Resize(33)
+		end
+		
+		function elements:CreateSlider(text, default, min, max, float, callback)
+			local sliderFunc = {}
+			text = text or "Slider"
+			default = default or 0
+			min = min or 0
+			max = max or 100
+			callback = callback or function() end
+			
+			callback(default)
+			
+			local sliderFrame = Instance.new("Frame")
+			local sliderText = Instance.new("TextLabel")
+			local sliderValue = Instance.new("TextLabel")
+			local sliderButton = Instance.new("TextButton")
+			local sliderBtnFrame = Instance.new("Frame")
+			
+			local Value
+			local dragging = false
+
+			sliderFrame.Name = "sliderFrame"
+			sliderFrame.Parent = tabFrame
+			sliderFrame.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+			sliderFrame.BorderSizePixel = 0
+			sliderFrame.Position = UDim2.new(0.0442176871, 0, 0.661691546, 0)
+			sliderFrame.Size = UDim2.new(0, 134, 0, 50)
+
+			sliderText.Name = "sliderText"
+			sliderText.Parent = sliderFrame
+			sliderText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			sliderText.BackgroundTransparency = 1.000
+			sliderText.BorderSizePixel = 0
+			sliderText.Position = UDim2.new(0, 0, 0.0666666701, 0)
+			sliderText.Size = UDim2.new(0, 80, 0, 19)
+			sliderText.Font = Enum.Font.Gotham
+			sliderText.Text = "  " .. text
+			sliderText.TextColor3 = Color3.fromRGB(255, 255, 255)
+			sliderText.TextSize = 14.000
+			sliderText.TextWrapped = true
+			sliderText.TextXAlignment = Enum.TextXAlignment.Left
+
+			sliderValue.Name = "sliderValue"
+			sliderValue.Parent = sliderFrame
+			sliderValue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			sliderValue.BackgroundTransparency = 1.000
+			sliderValue.BorderSizePixel = 0
+			sliderValue.Position = UDim2.new(0.597014904, 0, 0.0666666701, 0)
+			sliderValue.Size = UDim2.new(0, 46, 0, 19)
+			sliderValue.Font = Enum.Font.Gotham
+			sliderValue.Text = default .. "  "
+			sliderValue.TextColor3 = Color3.fromRGB(255, 255, 255)
+			sliderValue.TextSize = 14.000
+			sliderValue.TextWrapped = true
+			sliderValue.TextXAlignment = Enum.TextXAlignment.Right
+
+			sliderButton.Name = "sliderButton"
+			sliderButton.Parent = sliderFrame
+			sliderButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+			sliderButton.BorderSizePixel = 0
+			sliderButton.Position = UDim2.new(0.0597014911, 0, 0.692592621, 0)
+			sliderButton.Size = UDim2.new(0, 118, 0, 4)
+			sliderButton.AutoButtonColor = false
+			sliderButton.Font = Enum.Font.SourceSans
+			sliderButton.Text = ""
+			sliderButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+			sliderButton.TextSize = 14.000
+
+			sliderBtnFrame.Parent = sliderButton
+			sliderBtnFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			sliderBtnFrame.BorderSizePixel = 0
+			sliderBtnFrame.Size = UDim2.new((default - min) / (max - min), 0, 0, 4) -- UDim2.new(0, 0, 0, 4)
+			
+			Resize(53)
+			
+			local function move(input)
+				local pos = 
+					UDim2.new(
+						math.clamp((input.Position.X - sliderButton.AbsolutePosition.X) / sliderButton.AbsoluteSize.X, 0, 1),
+						0,
+						0,
+						6
+					)
+				sliderBtnFrame:TweenSize(pos, "Out", "Sine", 0.1, true)
+				Value = (((pos.X.Scale * max) / max) * (max - min) + min)
+				Value = round(Value, float)
+				Value = math.clamp(Value, min, max)
+				sliderValue.Text = Value
+				callback(Value)
+			end
+
+			local function moveEnded(input)
+				local pos = 
+					UDim2.new(
+						math.clamp((input.Position.X - sliderButton.AbsolutePosition.X) / sliderButton.AbsoluteSize.X, 0, 1),
+						0,
+						0,
+						4
+					)
+				sliderBtnFrame:TweenSize(pos, "Out", "Sine", 0.1, true)
+				Value = (((pos.X.Scale * max) / max) * (max - min) + min)
+				Value = round(Value, float)
+				Value = math.clamp(Value, min, max)
+				sliderValue.Text = Value
+				callback(Value)
+			end
+
+			sliderButton.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					dragging = true
+				end
+			end)
+
+			sliderButton.InputEnded:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 then
+					dragging = false
+					moveEnded(input)
+				end
+			end)
+
+			uis.InputChanged:Connect(function(input)
+				if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+					move(input)
+				end
+			end)
+			
+			function sliderFunc:Change(tochange)
+				sliderBtnFrame.Size = UDim2.new((tochange or 0) / max, 0, 0, 6)
+				sliderValue.Text = tostring(tochange and (tochange / max) * (max - min) + min) or 0
+				callback(tochange)
+			end
+			
+			return sliderFunc
+		end
+		
+		function elements:CreateBox(text, preset, callback)
+			text = text or "Box"
+			preset = preset or "Text"
+			callback = callback or function() end
+			
+			callback(preset)
+			
+			local tbFrame = Instance.new("Frame")
+			local tbText = Instance.new("TextLabel")
+			local tbMain = Instance.new("TextBox")
+
+			tbFrame.Name = "tbFrame"
+			tbFrame.Parent = tabFrame
+			tbFrame.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+			tbFrame.BorderSizePixel = 0
+			tbFrame.Position = UDim2.new(0.0442176871, 0, 0.661691546, 0)
+			tbFrame.Size = UDim2.new(0, 134, 0, 30)
+
+			tbText.Name = "tbText"
+			tbText.Parent = tbFrame
+			tbText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			tbText.BackgroundTransparency = 1.000
+			tbText.BorderSizePixel = 0
+			tbText.Size = UDim2.new(0, 80, 0, 30)
+			tbText.Font = Enum.Font.Gotham
+			tbText.Text = "  " .. text
+			tbText.TextColor3 = Color3.fromRGB(255, 255, 255)
+			tbText.TextSize = 14.000
+			tbText.TextWrapped = true
+			tbText.TextXAlignment = Enum.TextXAlignment.Left
+
+			tbMain.Name = "tbMain"
+			tbMain.Parent = tbFrame
+			tbMain.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+			tbMain.BorderSizePixel = 0
+			tbMain.Position = UDim2.new(0.626865625, 0, 0.187036127, 0)
+			tbMain.Size = UDim2.new(0, 42, 0, 17)
+			tbMain.Font = Enum.Font.Gotham
+			tbMain.PlaceholderText = "Text"
+			tbMain.Text = preset
+			tbMain.TextColor3 = Color3.fromRGB(255, 255, 255)
+			tbMain.TextSize = 13.000
+			tbMain.TextWrapped = true
+			tbMain.FocusLost:Connect(function()
+				callback(tbMain.Text)
+			end)
+			
+			Resize(30)
+		end
+		
+		function elements:CreateDropdown(text, list, default, callback)
+			text = text or "Dropdown"
+			list = list or {}
+			default = default or ""
+			callback = callback or function() end
+			
+			local dropVis = false
+			
+			callback(default)
+			
+			local dpFrame = Instance.new("Frame")
+			local dpText = Instance.new("TextLabel")
+			local dpBtn = Instance.new("TextButton")
+			local dpListContainer = Instance.new("Frame")
+			local dpListlayout = Instance.new("UIListLayout")
+
+			dpFrame.Name = "dpFrame"
+			dpFrame.Parent = tabFrame
+			dpFrame.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+			dpFrame.BorderSizePixel = 0
+			dpFrame.Position = UDim2.new(0.0442176871, 0, 0.661691546, 0)
+			dpFrame.Size = UDim2.new(0, 134, 0, 30)
+
+			dpText.Name = "dpText"
+			dpText.Parent = dpFrame
+			dpText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			dpText.BackgroundTransparency = 1.000
+			dpText.BorderSizePixel = 0
+			dpText.Size = UDim2.new(0, 80, 0, 30)
+			dpText.Font = Enum.Font.Gotham
+			dpText.Text = "  " .. text
+			dpText.TextColor3 = Color3.fromRGB(255, 255, 255)
+			dpText.TextSize = 14.000
+			dpText.TextWrapped = true
+			dpText.TextXAlignment = Enum.TextXAlignment.Left
+
+			dpBtn.Name = "dpBtn"
+			dpBtn.Parent = dpFrame
+			dpBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			dpBtn.BackgroundTransparency = 1.000
+			dpBtn.BorderSizePixel = 0
+			dpBtn.Position = UDim2.new(0.810000062, 0, 0.220369473, 0)
+			dpBtn.Size = UDim2.new(0, 17, 0, 15)
+			dpBtn.AutoButtonColor = false
+			dpBtn.Font = Enum.Font.Gotham
+			dpBtn.Text = "+"
+			dpBtn.TextColor3 = Color3.fromRGB(165, 165, 165)
+			dpBtn.TextScaled = true
+			dpBtn.TextSize = 14.000
+			dpBtn.TextWrapped = true
+			dpBtn.MouseButton1Click:Connect(function()
+				dropVis = not dropVis
+				if dropVis then
+					TweenService:Create(dpBtn, TweenInfo.new(0.3, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), {
+						Rotation = 359,
+						TextColor3 = Color3.fromRGB(255, 255, 255),
+						TextSize = 21
+					}):Play()
+					dpListContainer.Visible = true
+				else
+					TweenService:Create(dpBtn, TweenInfo.new(0.3, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), {
+						Rotation = 0,
+						TextColor3 = Color3.fromRGB(165, 165, 165),
+						TextSize = 14
+					}):Play()
+					dpListContainer.Visible = false
+				end
+			end)
+			
+			for i,v in next, list do
+				local dpListBtn = Instance.new("TextButton")
+				
+				dpListBtn.Name = "dpListBtn"
+				dpListBtn.Parent = dpListContainer
+				dpListBtn.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+				dpListBtn.BorderSizePixel = 0
+				dpListBtn.Size = UDim2.new(0, 134, 0, 30)
+				dpListBtn.AutoButtonColor = false
+				dpListBtn.Font = Enum.Font.Gotham
+				dpListBtn.Text = "  " .. v
+				dpListBtn.TextColor3 = Color3.fromRGB(165, 165, 165)
+				dpListBtn.TextSize = 14.000
+				dpListBtn.TextXAlignment = Enum.TextXAlignment.Left
+				dpListBtn.MouseButton1Click:Connect(function()
+					for _,b in pairs(dpListContainer:GetChildren()) do
+						if b:IsA("TextButton") then
+							TweenService:Create(b, TweenInfo.new(0.12, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), {
+								TextColor3 = Color3.fromRGB(165, 165, 165)
+							}):Play()
+						end
+					end
+					TweenService:Create(dpListBtn, TweenInfo.new(0.12, Enum.EasingStyle.Sine, Enum.EasingDirection.Out), {
+						TextColor3 = Color3.fromRGB(255, 255, 255)
+					}):Play()
+					callback(v)
+				end)
+				
+				if dpListBtn.Text == "  " .. default then
+					dpListBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+				end
+			end
+
+			dpListContainer.Name = "dpListContainer"
+			dpListContainer.Parent = dpFrame
+			dpListContainer.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			dpListContainer.BackgroundTransparency = 1.000
+			dpListContainer.BorderSizePixel = 0
+			dpListContainer.Position = UDim2.new(1.13432837, 0, 0, 0)
+			dpListContainer.Size = UDim2.new(0, 139, 0, 367)
+			dpListContainer.Visible = false
+
+			dpListlayout.Name = "dpListlayout"
+			dpListlayout.Parent = dpListContainer
+			dpListlayout.SortOrder = Enum.SortOrder.LayoutOrder
+			
+			Resize(33)
+		end
+
+		function elements:CreateLabel(text, t)
+			local Text = Instance.new("TextLabel")
+
+			Text.Name = "tbText"
+			Text.Parent = tabFrame
+			Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Text.BackgroundTransparency = 1.000
+			Text.BorderSizePixel = 0
+			Text.Size = UDim2.new(0, 134, 0, 30)
+			Text.Font = Enum.Font.Gotham
+			Text.Text = "  " .. text
+			Text.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Text.TextSize = 14.000
+			Text.TextScaled = t
+			Text.TextXAlignment = Enum.TextXAlignment.Left
+
+			Resize(30)
+		end
+		
+		return elements
+	end
+	
+	return tab
+end
+
+return lib
